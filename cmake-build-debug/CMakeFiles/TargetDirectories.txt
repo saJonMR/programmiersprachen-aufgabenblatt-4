@@ -1,0 +1,11 @@
+/Users/datboi/GitHub/programmiersprachen-aufgabenblatt-4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/datboi/GitHub/programmiersprachen-aufgabenblatt-4/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/datboi/GitHub/programmiersprachen-aufgabenblatt-4/cmake-build-debug/CMakeFiles/nanovg.dir
+/Users/datboi/GitHub/programmiersprachen-aufgabenblatt-4/cmake-build-debug/external/glfw-3.2.1/CMakeFiles/rebuild_cache.dir
+/Users/datboi/GitHub/programmiersprachen-aufgabenblatt-4/cmake-build-debug/external/glfw-3.2.1/CMakeFiles/edit_cache.dir
+/Users/datboi/GitHub/programmiersprachen-aufgabenblatt-4/cmake-build-debug/external/glfw-3.2.1/src/CMakeFiles/rebuild_cache.dir
+/Users/datboi/GitHub/programmiersprachen-aufgabenblatt-4/cmake-build-debug/external/glfw-3.2.1/src/CMakeFiles/edit_cache.dir
+/Users/datboi/GitHub/programmiersprachen-aufgabenblatt-4/cmake-build-debug/external/glfw-3.2.1/src/CMakeFiles/glfw.dir
+/Users/datboi/GitHub/programmiersprachen-aufgabenblatt-4/cmake-build-debug/source/CMakeFiles/rebuild_cache.dir
+/Users/datboi/GitHub/programmiersprachen-aufgabenblatt-4/cmake-build-debug/source/CMakeFiles/edit_cache.dir
+/Users/datboi/GitHub/programmiersprachen-aufgabenblatt-4/cmake-build-debug/source/CMakeFiles/TestList.dir
